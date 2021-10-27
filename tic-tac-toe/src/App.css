@@ -1,0 +1,23 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  background-color: lightblue;
+  height: 800px;
+  width: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+}
+
+.box {
+  background-color: aquamarine;
+  height: 250px;
+  width: 250px;
+  font-size: 100px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
